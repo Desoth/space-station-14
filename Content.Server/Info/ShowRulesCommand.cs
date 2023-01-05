@@ -25,8 +25,9 @@ public sealed class ShowRulesCommand : IConsoleCommand
             case 1:
             {
                 target = args[0];
-                var configurationManager = IoCManager.Resolve<IConfigurationManager>();
-                seconds = configurationManager.GetCVar(CCVars.RulesWaitTime);
+//                var configurationManager = IoCManager.Resolve<IConfigurationManager>();
+//                seconds = configurationManager.GetCVar(CCVars.RulesWaitTime);
+		seconds = 45.0f;
                 break;
             }
             case 2:

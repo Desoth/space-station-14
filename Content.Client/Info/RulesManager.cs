@@ -58,9 +58,9 @@ public sealed class RulesManager : SharedRulesManager
 
         _shouldShowRules = false;
 
-        float seconds = _configManager.GetCVar(CCVars.RulesWaitTime);
+//        float seconds = _configManager.GetCVar(CCVars.RulesWaitTime);
 
-        ShowRules(seconds);
+        ShowRules(45.0f);
     }
 
     private void ShowRules(float time)

@@ -1259,7 +1259,7 @@ namespace Content.Shared.CCVar
         /// <summary>
         /// Time that players have to wait before rules can be accepted.
         /// </summary>
-        public static readonly CVarDef<int> RulesWaitTime =
+        public static readonly CVarDef<float> RulesWaitTime =
             CVarDef.Create("rules.time", 45f, CVar.SERVER | CVar.REPLICATED);
 
         /// <summary>
