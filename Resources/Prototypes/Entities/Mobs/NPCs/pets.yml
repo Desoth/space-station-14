@@ -243,7 +243,6 @@
     attributes:
       proper: true
       gender: male
-  - type: DogVision
 
 - type: entity
   name: Paperwork
@@ -335,7 +334,6 @@
     attributes:
       proper: true
       gender: male
-  - type: DogVision
 
 - type: entity
   name: Morty

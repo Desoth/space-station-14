@@ -1553,7 +1553,6 @@
   - type: Puller
   - type: MobPrice
     price: 200
-  - type: DogVision
 
 - type: entity
   name: corrupted corgi
