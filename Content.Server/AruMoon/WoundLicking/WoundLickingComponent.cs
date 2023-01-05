@@ -1,3 +1,4 @@
+/*
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype;
 using Content.Shared.Actions.ActionTypes;
 using Robust.Shared.Utility;
@@ -66,3 +67,4 @@ namespace Content.Server.Felinid
         public CancellationTokenSource? CancelToken;
     }
 }
+*/

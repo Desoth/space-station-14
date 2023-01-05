@@ -1,3 +1,4 @@
+/*
 using Content.Server.DoAfter;
 using Content.Server.Popups;
 using Content.Server.Disease;
@@ -200,3 +201,4 @@ namespace Content.Server.Felinid
 
     public sealed class WoundLickingTargetActionEvent : EntityTargetActionEvent {}
 }
+*/
