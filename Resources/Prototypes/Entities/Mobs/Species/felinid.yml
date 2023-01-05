@@ -15,7 +15,7 @@
   - type: Flashable   # Felinids get longer flashes from flashbangs because of their sensetive ears
     durationMultiplier: 1
     bangAddMultiplier: 0.5
-  - type: WoundLicking
+#  - type: WoundLicking
   - type: Reactive
     groups:
       Flammable: [ Touch ]
